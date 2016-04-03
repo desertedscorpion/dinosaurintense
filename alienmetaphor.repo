@@ -1,0 +1,7 @@
+[alienmetaphor]
+name=Alien Metaphor
+failovermethod=priority
+baseurl=https://raw.githubusercontent.com/hollowmoon/silverfoot/master
+enabled=1
+metadata_expire=28d
+gpgcheck=0
