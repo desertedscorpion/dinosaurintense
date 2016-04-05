@@ -1,7 +1,0 @@
-[luckygamma]
-name=Lucky Gamma
-failovermethod=priority
-baseurl=https://raw.githubusercontent.com/hollowmoon/master
-enabled=1
-metadata_expire=28d
-gpgcheck=0
